@@ -38,7 +38,6 @@ class  Script(object):
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : [🔱㊣ꜰᴏʀᴡᴀʀᴅ ʙᴏᴛ㊣🔱](https://t.me/mass_forward_bot)
 ║┣⪼👦Cʀᴇᴀᴛᴏʀ : [🔱㊣ᴊᴏɴ ꜱɴᴏᴡ㊣🔱](https://t.me/Jon_snostark)
-║┣⪼🤖Uᴘᴅᴀᴛᴇ : [🔱㊣ᴊᴏɴ ꜱɴᴏᴡ㊣🔱](https://t.me/Jon_snostark)
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
 ║┣⪼📚Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ Gᴀᴛʜᴇʀ 2.11.0 
