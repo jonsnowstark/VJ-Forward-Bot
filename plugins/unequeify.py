@@ -20,9 +20,9 @@ import struct
 CLIENT = CLIENT()
 COMPLETED_BTN = InlineKeyboardMarkup(
   [[
-    InlineKeyboardButton('💟 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 💟', url='https://t.me/VJ_Bot_Disscussion')
+    InlineKeyboardButton('💟🔱㊣ᴊᴏɴ ꜱɴᴏᴡ㊣🔱💟', url='https://t.me/Jon_snostark')
   ],[
-    InlineKeyboardButton('💠 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ 💠', url='https://t.me/vj_botz')
+    InlineKeyboardButton('💠🔱㊣ᴊᴏɴ ꜱɴᴏᴡ㊣🔱💠', url='https://t.me/Jon_snostark')
   ]]
 )
 CANCEL_BTN = InlineKeyboardMarkup([[InlineKeyboardButton('• ᴄᴀɴᴄᴇʟ', 'terminate_frwd')]])
